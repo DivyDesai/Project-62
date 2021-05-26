@@ -1,0 +1,40 @@
+html{
+    text-align: center;
+    scroll-behavior: smooth;
+    background-color: blue;
+}
+#grid img{
+    height:300px;
+    width: 300px;
+}
+img{
+    height: 800px;
+    width: 1000px;
+}
+.line{
+  height: 6px;
+  width: 200px;
+   background-color: black;
+  margin: 8px auto;
+}
+li {
+  display: inline;
+}
+
+li a {
+  display: inline;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+
+  
+  padding: 8px;
+  background-color: black;
+    display: inline;
+}
+.menu{
+    position: fixed;
+}
+#myCarousel{
+    background-color: red;
+}
